@@ -29,7 +29,7 @@ DEBUG = True
 
 # ALLOWED_HOSTS = ['pharmacymanage.herokuapp.com']
 ALLOWED_HOSTS = [
-    https://pharmacy-manager.azurewebsites.net/
+    'https://pharmacy-manager.azurewebsites.net/'
 ]
 
 # Application definition
